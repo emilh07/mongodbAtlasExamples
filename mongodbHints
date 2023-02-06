@@ -1,0 +1,2 @@
+#Command to connect to my mongodb database
+mongosh "mongodb+srv://cluster0.r9lwedg.mongodb.net/myFirstDatabase" --apiVersion 1 --username emilh
